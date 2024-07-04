@@ -1,6 +1,6 @@
 # A dual-site dietary intervention study to integrate dietary assessment methods
 
-* Study Protocol 
+* [Study Protocol](Protocol_Version1.0_15032023.pdf)
 * Participant Information Sheet (PIS)
 * Study Meal Plans 
 
